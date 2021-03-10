@@ -43,7 +43,13 @@
 						<span class="greeting__text">Чтобы узнать о моих работах и навыках, щёлкните по ссылкам в верхнем меню</span>
 					</section>
 					<section class="portfolio section" v-if="menu[1].active">
-						<h2>Портфолио</h2>
+						<div class="portfolio__header">
+							<h2>Портфолио</h2>
+							<span class="portfolio__help">
+								<img src="img/team.svg" alt="В команде" title="В команде">
+								<span class="text">В команде (вёрстка)</span>
+							</span>
+						</div>
 						<div class="portfolio--container">
 							<a v-for="item in portfolio"
 							   :key="item.id"
@@ -52,6 +58,11 @@
 							   target="_blank"
 							   rel="noopener noreferrer">
 								<img :src="'img/' + item.img.link" :alt="item.img.alt">
+								<span class="portfolio__item--skills">
+									<span v-for="skill in item.skills" :key="skill.id" class="skill">
+										<img :src="'img/' + skill.img" alt="skill.text">
+									</span>
+								</span>
 								<span class="description">
 									<span class="description__text">{{ item.text }}</span>
 									<span class="description__btn">Сайт</span>

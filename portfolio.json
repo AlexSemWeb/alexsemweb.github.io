@@ -1,1 +1,135 @@
-[]
+[
+  {
+    "id":1,
+    "text":"Сайт дервени Лавры",
+    "link":"https://lauracity.ru/",
+    "img":{
+      "link":"sites/laura.svg",
+      "alt":"Логотип сайта деревни Лавры"
+    },
+    "skills":[
+      {
+        "id":1,
+        "text":"Nuxt",
+        "img":"skills/nuxt.svg"
+      },
+      {
+        "id":2,
+        "text":"Django REST framework",
+        "img":"skills/django.svg"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "text":"Загородный отель Плесков",
+    "link":"https://www.otelpleskov.ru/",
+    "img":{
+      "link":"sites/pleskov.svg",
+      "alt":"Логотип сайта отеля Плесков"
+    },
+    "skills":[
+      {
+        "id":1,
+        "text":"В команде",
+        "img":"team.svg"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "text":"Время рожать",
+    "link":"https://www.vremyarozat.ru/",
+    "img":{
+      "link":"sites/vremyarozat.png",
+      "alt":"Время рожать"
+    },
+    "skills":[
+      {
+        "id":1,
+        "text":"В команде",
+        "img":"team.svg"
+      }
+    ]
+  },
+  {
+    "id":4,
+    "text":"JR FARM",
+    "link":"https://jrfarm.ru/",
+    "img":{
+      "link":"sites/jrfarm.svg",
+      "alt":"JR FARM"
+    },
+    "skills":[
+      {
+        "id":1,
+        "text":"В команде",
+        "img":"team.svg"
+      }
+    ]
+  },
+  {
+    "id":5,
+    "text":"NewKey",
+    "link":"https://www.newkey.ru/",
+    "img":{
+      "link":"sites/newkey.svg",
+      "alt":"NewKey"
+    },
+    "skills":[
+      {
+        "id":1,
+        "text":"В команде",
+        "img":"team.svg"
+      }
+    ]
+  },
+  {
+    "id":6,
+    "text":"Псковская областная универсальная научная библиотека",
+    "link":"http://pskovlib.ru/",
+    "img":{
+      "link":"sites/pskovlib.svg",
+      "alt":"Псковская областная универсальная научная библиотека"
+    },
+    "skills":[
+      {
+        "id":1,
+        "text":"В команде",
+        "img":"team.svg"
+      }
+    ]
+  },
+  {
+    "id":7,
+    "text":"СургутНефтегаз. Псковнефтепродукт",
+    "link":"https://pskovnp.ru/",
+    "img":{
+      "link":"sites/neft.svg",
+      "alt":"СургутНефтегаз. Псковнефтепродукт"
+    },
+    "skills":[
+      {
+        "id":1,
+        "text":"В команде",
+        "img":"team.svg"
+      }
+    ]
+  },
+  {
+    "id":8,
+    "text":"ТрансЛидерСаха",
+    "link":"https://trans38.ru/",
+    "img":{
+      "link":"sites/trans.svg",
+      "alt":"ТрансЛидерСаха"
+    },
+    "skills":[
+      {
+        "id":1,
+        "text":"В команде",
+        "img":"team.svg"
+      }
+    ]
+  }
+]
