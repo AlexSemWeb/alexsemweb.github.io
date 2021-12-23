@@ -37,22 +37,6 @@
     ]
   },
   {
-    "id": 3,
-    "text": "Сайт фитнес плана",
-    "link": "https://call2me.life/ru/slimming/",
-    "img": {
-      "link": "sites/fitnes.svg",
-      "alt": "Логотип сайта фитнес плана"
-    },
-    "skills": [
-      {
-        "id": 1,
-        "text": "Vue",
-        "img": "skills/vue.svg"
-      }
-    ]
-  },
-  {
     "id": 4,
     "text": "Загородный отель Плесков",
     "link": "https://www.otelpleskov.ru/",
