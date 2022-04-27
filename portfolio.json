@@ -21,6 +21,15 @@
     ]
   },
   {
+    "id": 11,
+    "text": "Корзина",
+    "link": "https://github.com/AlexSmirnovWeb/perx-text",
+    "img": {
+      "link": "skills/react.svg",
+      "alt": "Логотип React"
+    }
+  },
+  {
     "id": 2,
     "text": "Форма регистрации",
     "link": "https://alexsmirnovweb.github.io/test-work/dist/",
