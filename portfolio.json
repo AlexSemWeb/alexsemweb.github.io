@@ -27,7 +27,14 @@
     "img": {
       "link": "skills/react.svg",
       "alt": "Логотип React"
-    }
+    },
+    "skills": [
+      {
+        "id": 1,
+        "text": "React",
+        "img": "skills/react.svg"
+      }
+    ]
   },
   {
     "id": 2,
